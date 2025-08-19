@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "data": {
+            "text": "Ny boky mirakitra ny tantaran\u2019i Jesosy Kristy, zanak\u2019i Davida, zanak\u2019i Abrahama:.",
+            "question": "Taranak'iza Jesosy Kristy ?"
+        }
+        
+    },
+    {
+        "id": 2,
+        "data": {
+            "text": "I Abrahama niteraka an\u2019i Isaka.",
+            "question": "Iza no niteraka an'i Isaka ?"
+        }
+    },
+
+     {
+        "id": 3,
+        "data": {
+            "text": "Isaka niteraka an\u2019i Jakoba.",
+            "question": "Niteraka an'iza Isaka ?"
+        }
+    }
+]
